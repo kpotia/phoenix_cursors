@@ -1,5 +1,8 @@
 # PhoenixCursors
-
+here is the link to the [`blog post`](https://koenvangilst.nl/blog/phoenix-live-cursors) I've watch to build this feature
+## About PhoenixCursors
+This is a tutorial by [`Koen van Gilst`](https://koenvangilst.nl) which uses fonctionalities of phoenix such as socket, channel and presence to implement the displaying of the moves of the cursor of the user connected to the system. 
+## Install
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
